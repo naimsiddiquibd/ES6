@@ -23,3 +23,9 @@ const first = 'Naim';
 const second = 'Siddiqui';
 const fullName = `${first} ${second}`;
 console.log(fullName);
+
+let age = 20;
+let phone = 'Redmi';
+let message = `I am ${age} years old and I am using ${phone} smart phone`;
+console.log(message);
+// Output: I am 20 years old and I am using Redmi smart phone
